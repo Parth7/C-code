@@ -1,2 +1,1 @@
-# test
-first repo
+Simple C/C++ codes written over time
